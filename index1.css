@@ -1,0 +1,11 @@
+.card
+{
+    background-color: black !important;
+    border: 4px solid blueviolet !important;
+
+}
+label
+{
+    color: white !important;
+    padding: 15px 0px !important;
+}
